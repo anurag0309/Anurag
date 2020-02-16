@@ -5,6 +5,8 @@ menu:
 2)main course
 3)chines
 4)soups
+5)french dish
+6)Desert
 
 
 
