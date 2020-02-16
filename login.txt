@@ -7,6 +7,8 @@ menu:
 4)soups
 5)french dish
 6)Desert
+7)Pizzas
+8)Burgers
 
 
 
